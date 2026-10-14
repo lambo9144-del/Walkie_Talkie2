@@ -1,0 +1,18 @@
+{
+  "name": "Walkie Talkie \u2014 Push to Talk",
+  "short_name": "WalkieTalkie",
+  "description": "Browser-based voice-only push-to-talk channels.",
+  "start_url": "../../index.php",
+  "scope": "../",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
